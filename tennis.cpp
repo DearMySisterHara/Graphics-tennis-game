@@ -129,7 +129,7 @@ int main()
     const sf::Time AITime   = sf::seconds(0.1f);
     const float paddleSpeed = 400.f;
     float rightPaddleSpeed  = 0.f;
-    const float ballSpeed   = 400.f;
+    const float ballSpeed   = 600.f;
     const float superBallSpeed = 1200.f;
     float currentBallSpeed = ballSpeed;
     float ballAngle         = 0.f; // to be changed later
